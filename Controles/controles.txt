@@ -1,1 +1,1 @@
-controles :
+control 1:
